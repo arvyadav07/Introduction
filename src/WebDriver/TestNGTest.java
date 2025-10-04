@@ -8,10 +8,10 @@ import org.testng.annotations.Test;
 public class TestNGTest {
     @Test
     void  setup() {
-        System.out.println("This is setup method.");
+        System.out.println("This is setup method....");
     }
     @Test
     void login() {
-        System.out.println("This is login method");
+        System.out.println("This is login method.");
     }
 }

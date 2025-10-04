@@ -3,7 +3,7 @@
 <suite name="Introduction">
     <test name="WebDriver">
         <classes>
-            <class name="WebDriver.Prime"/>
+            <class name="WebDriver.TestNGTest"/>
         </classes>
     </test>
 </suite>
