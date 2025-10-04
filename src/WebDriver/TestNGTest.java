@@ -12,6 +12,6 @@ public class TestNGTest {
     }
     @Test
     void login() {
-        System.out.println("This is login method");
+        System.out.println("This is login method.");
     }
 }
